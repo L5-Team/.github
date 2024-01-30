@@ -10,8 +10,6 @@
 
 ## 🤝 Contributors
 
-We thank the following people who contributed to this project:
-
 <table>
   <tr>
     <td align="center">
