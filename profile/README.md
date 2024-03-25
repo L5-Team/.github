@@ -4,9 +4,6 @@
 
 # L5 Team
 
-<img src="https://img.freepik.com/free-vector/game-background-with-magic-maya-altar-jungle_107791-19342.jpg?w=1380&t=st=1706636653~exp=1706637253~hmac=526d2920a6e87ce366397ceb8da22b1cecd6eb9d7e770e948397f21dfa295362" width="100%" alt="banner">
-
-
 
 ## 🤝 Contributors
 
